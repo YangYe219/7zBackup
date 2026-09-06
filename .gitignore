@@ -1,0 +1,15 @@
+# Build output
+*.exe
+*.pdb
+
+# Runtime-generated files (settings & self-test logs)
+7zBackup.ini
+7zPwdCheck.ini
+selftest_result.txt
+7zPwdCheck_result.txt
+
+# OS junk
+Thumbs.db
+ehthumbs.db
+desktop.ini
+.DS_Store
